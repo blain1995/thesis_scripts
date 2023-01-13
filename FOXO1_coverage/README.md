@@ -1,3 +1,4 @@
+# Investigation of *FOXO1* coverage
 These scripts were used to assess the GC content and sequencing coverage in section 3.2.9 of my PhD thesis.
 
 To run these scripts you first need to download the fasta sequence of the exon of interest from 
